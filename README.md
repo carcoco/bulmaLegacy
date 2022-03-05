@@ -1,17 +1,16 @@
 # bulmaLegacy
-Snapshopt of web  bulmalug.net.  Bisoños Usuarios Linux de Mallorca y Alrededores.
 
-# Credits:
+Snapshopt of web Bulma LUG. Bisoños Usuarios Linux de Mallorca y Alrededores.
 
-bulgalug.net  [don't work]
+# Whats is this?
 
-(This clone downloaded from: [http://saberlibre.net/Bulma/]|(http://saberlibre.net/Bulma/))
+From 2001 to 2006, I wrote 287 small articles about Linux and Open Source tools and programs.
+Linux distributions, Security Tools like nmap, ethereal, netcat, OpenSSH, OpenSSL, CVE. News and info about Linux.
 
-# More info
+In pdfs folder there are almost 2400 articles writed by the great People of BulmaLug.
 
-In the 2000s I wrote almost 300 articles about linux and free software.
 
-There are my articles:
+Here are my articles:
 
 - [GP2X: La consola portatil con linux incluido](https://github.com/carcoco/bulmaLegacy/tree/master/pdfs/Noticia2355.pdf)
 - [Linux + eMule = lMule ;-)](https://github.com/carcoco/bulmaLegacy/tree/master/pdfs/Noticia1713.pdf)
@@ -299,5 +298,11 @@ There are my articles:
 - [Monitoriza tu sistema linux -- GKrellM --](https://github.com/carcoco/bulmaLegacy/tree/master/pdfs/Noticia699.pdf)
 - [Ya empiezan a caer ... (las aplicacion desarrolladas con kylix)](https://github.com/carcoco/bulmaLegacy/tree/master/pdfs/Noticia692.pdf)
 - [Descomprimir archivos *.zip encriptados en Linux.](https://github.com/carcoco/bulmaLegacy/tree/master/pdfs/Noticia641.pdf)
+- [Controlar el estado de la conexion ppp a Internet. (pppstatus)](https://github.com/carcoco/bulmaLegacy/tree/master/pdfs/Noticia631.pdf)
 
 
+# Credits:
+
+Bulma LUG People
+
+(This clone was downloaded from: [http://saberlibre.net/Bulma/]|(http://saberlibre.net/Bulma/))
