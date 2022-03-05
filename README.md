@@ -1,13 +1,15 @@
 # bulmaLegacy
 
-Snapshopt of web Bulma LUG. Bisoños Usuarios Linux de Mallorca y Alrededores.
+Snapshopt of web **Bulma** LUG. Bisoños Usuarios Linux de Mallorca y Alrededores.
 
 # Whats is this?
 
-From 2001 to 2006, I wrote 287 small articles about Linux and Open Source tools and programs.
-Linux distributions, Security Tools like nmap, ethereal, netcat, OpenSSH, OpenSSL, CVE. News and info about Linux.
+From **2001** to **2006**, I wrote 287 small articles about Linux and Open Source:
 
-In pdfs folder there are almost 2400 articles writed by the great People of BulmaLug.
+Linux distributions, Security Tools like nmap, ethereal, netcat, OpenSSH, OpenSSL, ... Bash, CVE, monitorización, (IM) Jabber, VirtualMachines. 
+News and information about linux and its world, but remember that the vast majority are almost 20 years old. (Be good 🤝) 
+
+And In pdfs folder in this repo, there are almost 2400 articles writed by the great People of BulmaLug. 👏👏👏
 
 
 Here are my articles:
